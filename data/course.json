@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-course-ibrahim3"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course-ibrahim3"
+  },
+  "course_title": "test-course-ibrahim3",
+  "hide_download": false,
+  "course_description": "**test-course-ibrahim3**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-course-ibrahim3"
+  },
+  "learning_resource_types": [],
+  "site_uid": "ca0c4ead-74d9-4fb9-acb3-6bf52d5c79c7",
+  "site_short_id": "test-course-ibrahim3"
+}
